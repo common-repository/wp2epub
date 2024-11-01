@@ -1,0 +1,43 @@
+div.cover{text-align:center;background-color:#fff}
+div.cover img{width:100%;margin:0;padding:0}
+#cover-image{width:100%;margin:0;padding:0}
+	
+div.first h1{color:#000000;font-size:2em;font-family:sans-serif;}
+div.first h2{color:#CCCCCC;font-size:2em;font-family:sans-serif}
+div.first h3{color:#a40800;font-size:2em;font-family:sans-serif}
+div.first h4{color:#000;font-size:1em;font-family:serif;font-style:italic}
+div.first p{font-family:sans-serif;font-size:0.8em}
+		
+div.last{text-align:center;background-color:#fff}
+	
+p{text-align:justify}
+img{border:0;width:100%}
+		
+h3.main{font-family:Arial,Helvetica,san-serif;line-height:1em;font-size:1.5em;font-weight:bold;margin-bottom:0em;margin-top:0.em;margin-right:0em;margin-left:0em;text-indent:0em;text-align:center;font-style:normal;color:rgb(0,0,0);
+		border-width:1px 0px 1px 0px;
+		border-style:solid;
+		padding-left:0em;padding-right:0em;padding-top:.20em;}
+	
+h1.main{font-family:Arial,Helvetica,san-serif;line-height:1em;font-size:1.5em;font-weight:bold;margin-bottom:.5em;margin-top:1em;margin-right:0em;margin-left:0em;text-indent:0em;text-align:center;font-style:normal;color:#a40800;
+		border-width:2px 0px 2px 0px;border-style:solid;border-color:#a40800;
+		padding-left:0em;padding-right:0em;padding-top:.20em;}
+		
+h4.main{font-family:Arial,Helvetica,san-serif;line-height:1em;margin-top:2em;margin-bottom:1em}
+		
+.pi{font-family:serif;line-height:1.30em;text-indent:0em;
+		margin-bottom:0em;margin-top:1em;margin-right:0em;margin-left:0em;
+		text-align:justify;font-weight:normal;font-style:normal}
+	
+.lexique{font-family:serif;line-height:1.30em;text-indent:0em;
+		margin-bottom:0em;margin-top:1em;margin-right:0em;margin-left:0em;
+		text-align:justify;font-weight:normal;font-style:italic}
+		
+.exergue{font-family:serif;text-indent:0em;margin-right:1em;margin-left:1em;margin-top:5em;
+		text-align:justify;font-weight:normal;font-style:italic;color:rgb(0,0,0);}
+.exerguetitre{font-family:serif;text-indent:0em;margin-right:1em;margin-left:1em;margin-top:0em;margin-bottom:1em;
+		text-align:right;font-weight:normal;color:rgb(0,0,0);}
+		
+.blockquote{margin-top:1em;margin-bottom:1em;padding-left:1em;padding-right:1em;font-style:italic;text-indent:0em;}
+.surtitre{text-align:center;margin-bottom:1em;font-variant:small-caps}
+.soustitre{text-align:center;margin-bottom:2em}
+.smallcaps{font-variant:small-caps}
